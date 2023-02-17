@@ -1,3 +1,6 @@
 .terraform
 *.tfstate
 *.tfstate.backup
+
+# VS Code
+.vscode/
